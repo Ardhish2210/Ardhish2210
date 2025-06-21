@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardhish_patel_2210) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ardhish-patel-a21263285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bt23ece013@iiitn.ac.in) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardhish_patel_2210) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhish-patel-a21263285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bt23ece013@iiitn.ac.in) 
 
 # 💻 Tools/Tech Stack:
 ![Verilog](https://img.shields.io/badge/verilog-%238A2BE2.svg?style=for-the-badge) ![SystemVerilog](https://img.shields.io/badge/systemverilog-%23FF6F61.svg?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-%2300BFFF.svg?style=for-the-badge) ![VHDL](https://img.shields.io/badge/VHDL-%23A52A2A.svg?style=for-the-badge) ![FPGA](https://img.shields.io/badge/FPGA-%233CB371.svg?style=for-the-badge) ![Vivado](https://img.shields.io/badge/Vivado-%23F5DE50.svg?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-%235C6BC0.svg?style=for-the-badge) ![Synopsys](https://img.shields.io/badge/Synopsys-%23FFB300.svg?style=for-the-badge)
