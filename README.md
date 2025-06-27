@@ -30,9 +30,9 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhish2210&theme=algolia&hide_border=true" />
 
 ### 📊 Language Distribution
-<!-- Interactive-looking language stats -->
+<!-- Different language visualizations -->
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut-vertical&theme=algolia&hide_border=true" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 
 ### ⚡ Real-time Metrics
 <!-- More dynamic badges with animations -->
