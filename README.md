@@ -31,7 +31,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 ### 📊 Language Distribution
 <!-- Language visualization -->
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
 
 ### ⚡ Real-time Metrics
 <!-- More dynamic badges with animations -->
@@ -54,9 +54,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=algolia" /></td>
 </tr>
 </table>
-
 </div>
-
 </div>
 
 ### ✍️ Random Dev Quote
