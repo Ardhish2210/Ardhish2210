@@ -20,8 +20,8 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🎯 Quick Stats
