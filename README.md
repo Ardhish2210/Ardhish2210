@@ -24,15 +24,9 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <img src="https://img.shields.io/github/stars/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow" alt="Stars" />
 <img src="https://komarev.com/ghpvc/?username=Ardhish2210&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
-### 🔥 Contribution Insights
-<!-- GitHub Metrics with more visual appeal -->
-<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ardhish2210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhish2210&theme=algolia&hide_border=true" />
-
 ### 📊 Language Distribution
-<!-- Different language visualizations -->
+<!-- Language visualization -->
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 
 ### ⚡ Real-time Metrics
 <!-- More dynamic badges with animations -->
@@ -58,9 +52,6 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 </div>
 
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 # 📊 GitHub Stats:
@@ -68,8 +59,10 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ardhish2210&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
