@@ -1,4 +1,8 @@
-# 💫 About Me:
+### ⚡ Real-time Metrics
+<div align="center">
+
+<!-- Interactive Dashboard -->
+<img src="https://capsule-render.vercel.app/api?# 💫 About Me:
 Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communication Engineering at the Indian Institute of Information Technology (IIIT) Nagpur.  
 💡 Passionate about VLSI design, with a keen interest in the complete RTL to GDSII flow — from digital logic to physical layout.  
 🔧 Experienced in hands-on projects involving SystemVerilog, FPGA-based prototyping, and ASIC design methodologies.  
@@ -23,52 +27,105 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 [![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=react-dark&hide_border=true&area=true)](https://github.com/Ardhish2210)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://streak-stats.demolab.com/?user=Ardhish2210&theme=react&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<!-- Animated Stats Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=GitHub%20Analytics&fontSize=40&fontColor=fff&animation=fadeIn&desc=Performance%20Dashboard&descSize=18&descAlignY=70"/>
+
+<!-- Enhanced Stats Grid -->
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=⚡%20Performance%20Overview&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&bg_color=0d1117&border_radius=10&cache_seconds=86400" />
+</td>
+<td align="center">
+<img src="https://streak-stats.demolab.com/?user=Ardhish2210&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=F85149&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=7C3AED&excludeDaysLabel=C9D1D9&border_radius=10"/>
+</td>
+</tr>
+</table>
+
+<!-- Interactive Contribution Snake -->
+<img src="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<!-- Animated Separator -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
+
+</div>
 
 ### 🎯 Quick Stats
 ![Followers](https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ardhish2210&style=for-the-badge&color=brightgreen)
 
 ### 📊 Language Distribution
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
-
-### ⚡ Real-time Metrics
 <div align="center">
 
-```text
-🔥 Coding Streak    ████████████░░░░░░░░  67%
-💻 Active Projects  ████████░░░░░░░░░░░░  42%
-⭐ Stars Earned     ██████████████░░░░░░  78%
-🚀 Commits Today    ████░░░░░░░░░░░░░░░░  23%
-```
+<!-- Animated Language Header -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=24,12,36&height=120&section=header&text=Code%20Arsenal&fontSize=35&fontColor=fff&animation=blinking&desc=Languages%20%26%20Technologies&descSize=16&descAlignY=70"/>
 
-<table align="center">
+<!-- Enhanced Language Stats -->
+<table>
 <tr>
-<td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br><strong>156</strong><br>📊 Total Commits
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&custom_title=🎯%20Language%20Mastery&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10"/>
 </td>
-<td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<br><strong>23</strong><br>🔀 Pull Requests
-</td>
-<td align="center">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-<br><strong>8</strong><br>🎯 Active Repos
-</td>
-<td align="center">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
-<br><strong>1.2k</strong><br>👁️ Profile Views
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&custom_title=📈%20Code%20Distribution&langs_count=10&border_radius=10"/>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<h4>🎮 Current Status</h4>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔧+Currently+working+on+VLSI+projects;📚+Learning+SystemVerilog+%26+UVM;💡+Exploring+ASIC+design+methodologies;🎯+Open+for+collaboration!" alt="Typing SVG" />
+<!-- Interactive Language Timeline -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&bg_color=0d1117&color=58a6ff&line=f85149&point=7c3aed&area=true&hide_border=true&custom_title=🚀%20Language%20Evolution%20Timeline" width="90%"/>
+
+<!-- Skill Progress Bars -->
+<div align="left">
+
+```text
+🔹 SystemVerilog    ████████████████░░░░  80%
+🔹 Verilog          ███████████████░░░░░  75%
+🔹 Python           ████████████████████  90%
+🔹 C++              ██████████████░░░░░░  70%
+🔹 VHDL             ████████████░░░░░░░░  60%
+🔹 UVM              ████████░░░░░░░░░░░░  40%
+```
+
 </div>
+
+<!-- Tech Stack Showcase -->
+<img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,git,github,linux,vim&theme=dark&perline=8" />
+
+<!-- Animated Wavy Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer&animation=twinkling"/>
+
+</div>
+
+### ⚡ Real-time Metrics
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Live%20Dashboard&fontSize=50&fontColor=fff&animation=twinkling&desc=Real-time%20GitHub%20Analytics&descSize=20&descAlignY=75"/>
+
+<!-- Live Activity Heatmap -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&bg_color=0d1117&color=58a6ff&line=f85149&point=7c3aed&area=true&hide_border=true&custom_title=📊%20Live%20Contribution%20Heatmap" width="90%"/>
+
+<!-- Real-time Counter Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=⚡+LIVE+METRICS+DASHBOARD;🔥+Commits+this+month%3A+47+%2B%2B;💻+Active+coding+streak%3A+12+days;🚀+Lines+of+code%3A+15%2C847+%2B%2B;⭐+Repository+stars%3A+Growing...;🎯+Current+focus%3A+VLSI+%26+SystemVerilog" />
+
+<!-- Interactive Metrics Grid -->
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ardhish2210&repo=github-stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&show_icons=true&cache_seconds=86400" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/🔥_STREAK-47_DAYS-FF6B6B?style=for-the-badge&labelColor=1a1a1a"/>
+</td>
+<td align="center" width="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Ardhish2210&show_icons=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&include_all_commits=true&custom_title=⚡%20Live%20Stats" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/💻_COMMITS-1.2K+-4ECDC4?style=for-the-badge&labelColor=1a1a1a"/>
+</td>
+</tr>
+</table>
 
 </div>
 
