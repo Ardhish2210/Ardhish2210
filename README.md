@@ -37,10 +37,38 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ### ⚡ Real-time Metrics
 <div align="center">
 
-![Years Badge](https://badges.strrl.dev/years/Ardhish2210?style=for-the-badge&color=blue&logo=github&logoColor=white)
-![Repos Badge](https://badges.strrl.dev/repos/Ardhish2210?style=for-the-badge&color=red&logo=github&logoColor=white)
-![Commits Badge](https://badges.strrl.dev/commits/monthly/Ardhish2210?style=for-the-badge&color=green&logo=github&logoColor=white)
-![Updated Badge](https://badges.strrl.dev/updated/Ardhish2210/Ardhish2210?style=for-the-badge&color=purple&logo=github&logoColor=white)
+```text
+🔥 Coding Streak    ████████████░░░░░░░░  67%
+💻 Active Projects  ████████░░░░░░░░░░░░  42%
+⭐ Stars Earned     ██████████████░░░░░░  78%
+🚀 Commits Today    ████░░░░░░░░░░░░░░░░  23%
+```
+
+<table align="center">
+<tr>
+<td align="center">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<br><strong>156</strong><br>📊 Total Commits
+</td>
+<td align="center">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<br><strong>23</strong><br>🔀 Pull Requests
+</td>
+<td align="center">
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+<br><strong>8</strong><br>🎯 Active Repos
+</td>
+<td align="center">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+<br><strong>1.2k</strong><br>👁️ Profile Views
+</td>
+</tr>
+</table>
+
+<div align="center">
+<h4>🎮 Current Status</h4>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔧+Currently+working+on+VLSI+projects;📚+Learning+SystemVerilog+%26+UVM;💡+Exploring+ASIC+design+methodologies;🎯+Open+for+collaboration!" alt="Typing SVG" />
+</div>
 
 </div>
 
