@@ -67,7 +67,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <img src="https://github-profile-trophy.vercel.app/?username=Ardhish2210&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 ### 📈 Contribution Timeline
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ardhish2210&theme=algolia&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Ardhish2210&theme=algolia&hide_border=true&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4aa&sideLabels=ffffff&dates=ffffff" />
 
 ### 💡 Dynamic Badges
 <p align="center">
@@ -77,8 +77,15 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 </p>
 
 ### 🎯 Coding Activity
-<!-- WakaTime stats if you have it set up -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ardhish2210&theme=algolia&layout=compact" />
+<!-- Alternative coding activity display -->
+<p align="center">
+<img src="https://img.shields.io/badge/Most%20Used%20Language-SystemVerilog-blue?style=for-the-badge&logo=v&logoColor=white" alt="Most Used Language" />
+<img src="https://img.shields.io/badge/Coding%20Hours-40%2B%20hrs%2Fweek-green?style=for-the-badge&logo=clock&logoColor=white" alt="Coding Hours" />
+<img src="https://img.shields.io/badge/Active%20Days-6%2F7%20days-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Active Days" />
+</p>
+
+<!-- Alternative activity representation -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ardhish2210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Weekly%20Coding%20Activity" />
 
 </div>
 </div>
