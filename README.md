@@ -1,95 +1,148 @@
-### ⚡ Real-time Metrics
-<div align="center">
-
-<!-- Interactive Dashboard -->
-<img src="https://capsule-render.vercel.app/api?# 💫 About Me:
-Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communication Engineering at the Indian Institute of Information Technology (IIIT) Nagpur.  
-💡 Passionate about VLSI design, with a keen interest in the complete RTL to GDSII flow — from digital logic to physical layout.  
-🔧 Experienced in hands-on projects involving SystemVerilog, FPGA-based prototyping, and ASIC design methodologies.  
-🧪 Actively exploring hardware verification using UVM, with a focus on optimizing designs for performance, power, and area efficiency.  
-📘 Continuously building expertise in EDA tools, timing closure, floorplanning, and low-power design strategies to gain a deeper understanding of the chip design process.  
-🤖 Also enthusiastic about the intersection of VLSI and machine learning, working on signal processing projects, stress detection systems, and ML-driven analysis using Python, TensorFlow, and scikit-learn.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardhish_patel_2210) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhish-patel-a21263285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bt23ece013@iiitn.ac.in) 
-
-# 💻 Tools/Tech Stack:
-![Verilog](https://img.shields.io/badge/verilog-%238A2BE2.svg?style=for-the-badge) ![SystemVerilog](https://img.shields.io/badge/systemverilog-%23FF6F61.svg?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-%2300BFFF.svg?style=for-the-badge) ![VHDL](https://img.shields.io/badge/VHDL-%23A52A2A.svg?style=for-the-badge) ![FPGA](https://img.shields.io/badge/FPGA-%233CB371.svg?style=for-the-badge) ![Vivado](https://img.shields.io/badge/Vivado-%23F5DE50.svg?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-%235C6BC0.svg?style=for-the-badge) ![Synopsys](https://img.shields.io/badge/Synopsys-%23FFB300.svg?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence-%23DC143C.svg?style=for-the-badge) ![RTL Design](https://img.shields.io/badge/RTL%20Design-%23008080.svg?style=for-the-badge) ![ASIC Flow](https://img.shields.io/badge/ASIC%20Flow-%233F51B5.svg?style=for-the-badge) ![EDA Tools](https://img.shields.io/badge/EDA%20Tools-%239C27B0.svg?style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 🏅 GitHub Badges:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ardhish+%F0%9F%91%8B;VLSI+Design+Engineer;RTL+to+GDSII+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-  
-## 📈 GitHub Activity Dashboard
-
-<!-- Activity Graph -->
-[![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=react-dark&hide_border=true&area=true)](https://github.com/Ardhish2210)
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ardhish2210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkZjY4N2Y3MjBjMzE5YzU5NjNmZjExYmZlNjRmZTZmMTBmNDFmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ardhish2210&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=tokyo-night" />
-</div>
+## 🚀 About Me
 
-### 🎯 Quick Stats
-![Followers](https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=Ardhish2210&style=for-the-badge&color=brightgreen)
-
-### 📊 Language Distribution
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
-
-<div align="center">
-  
-**🚀 My Development Focus**
-
-```text
-SystemVerilog  ██████████████████░░ 90%
-Python         ████████████████░░░░ 80%
-Verilog        ███████████████░░░░░ 75%
-C++            ██████████████░░░░░░ 70%
-VHDL           ████████████░░░░░░░░ 60%
+```javascript
+const ardhish = {
+    name: "Ardhish Patel",
+    role: "Electronics & Communication Engineering Student",
+    location: "IIIT Nagpur, India",
+    year: "3rd Year B.Tech",
+    
+    currentFocus: [
+        "VLSI Design & Verification",
+        "SystemVerilog & UVM",
+        "RTL to GDSII Flow",
+        "ML in Hardware Design"
+    ],
+    
+    passion: "Building the next generation of chips! 💻⚡",
+    
+    dailyRoutine: function() {
+        return [
+            "☕ Coffee",
+            "💻 Code RTL",
+            "🔧 Debug",
+            "📚 Learn",
+            "🔄 Repeat"
+        ]
+    }
+}
 ```
 
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🔥 Hardware Design
+![Verilog](https://img.shields.io/badge/Verilog-E8E8E8?style=for-the-badge&logo=v&logoColor=red)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4B9FE7?style=for-the-badge&logo=systemverilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=vhdl&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-FF6B35?style=for-the-badge&logo=uvm&logoColor=white)
+
+### 🛠️ EDA Tools
+![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-0066CC?style=for-the-badge&logo=intel&logoColor=white)
+![Synopsys](https://img.shields.io/badge/Synopsys-1C1C1C?style=for-the-badge&logo=synopsys&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-FF6600?style=for-the-badge&logo=cadence&logoColor=white)
+
+### 💻 Software & ML
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 </div>
 
-### ⚡ Real-time Metrics
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ardhish2210?label=Followers&style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/stars/Ardhish2210?label=Stars&style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://komarev.com/ghpvc/?username=Ardhish2210&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-VLSI%20%26%20SystemVerilog-brightgreen?style=for-the-badge" />
-</p>
+---
 
-### 🌟 Achievement Showcase
-<!-- GitHub Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhish2210&theme=algolia" />
+## 📊 GitHub Analytics
 
-<table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ardhish2210&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ardhish2210&theme=radical&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Current Projects & Learning
+
+<table align="center">
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhish2210&theme=algolia" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhish2210&theme=algolia" /></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhish2210&theme=algolia" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=algolia" /></td>
+<td align="center" width="50%">
+
+**🔬 VLSI Projects**
+- RTL Design & Verification
+- FPGA Prototyping  
+- Timing Analysis
+- Low Power Design
+
+</td>
+<td align="center" width="50%">
+
+**🤖 ML + Hardware**
+- Signal Processing
+- Stress Detection Systems
+- Hardware Acceleration
+- ML-driven Analysis
+
+</td>
 </tr>
 </table>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=redical&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+
+## 🌟 Fun Stats
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coffee%20Consumed-♾️%20cups-brown?style=for-the-badge&logo=coffee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTL%20Lines%20Written-10k%2B-blue?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugs%20Fixed-999%2B-green?style=for-the-badge&logo=bug&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dreams-Chip%20Designer-purple?style=for-the-badge&logo=dream&logoColor=white"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ardhish2210&icon=5&color=1)](https://visitcount.itsvg.in)
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhish-patel-a21263285/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardhish_patel_2210)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bt23ece013@iiitn.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ardhish2210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  **"The best way to predict the future is to design it!"** ⚡
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
