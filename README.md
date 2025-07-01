@@ -36,11 +36,11 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 ### ⚡ Real-time Metrics
 <div align="center">
-  
-![GitHub Account Age](https://img.shields.io/badge/GitHub%20Since-2022-blue?style=for-the-badge&logo=github&logoColor=white)
-![Total Repos](https://img.shields.io/badge/dynamic/json?color=red&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArdhish2210&style=for-the-badge&logo=github&logoColor=white)
-![Total Stars](https://img.shields.io/github/stars/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow)
-![Total Forks](https://img.shields.io/github/forks/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=green)
+
+![Years Badge](https://badges.strrl.dev/years/Ardhish2210?style=for-the-badge&color=blue&logo=github&logoColor=white)
+![Repos Badge](https://badges.strrl.dev/repos/Ardhish2210?style=for-the-badge&color=red&logo=github&logoColor=white)
+![Commits Badge](https://badges.strrl.dev/commits/monthly/Ardhish2210?style=for-the-badge&color=green&logo=github&logoColor=white)
+![Updated Badge](https://badges.strrl.dev/updated/Ardhish2210/Ardhish2210?style=for-the-badge&color=purple&logo=github&logoColor=white)
 
 </div>
 
