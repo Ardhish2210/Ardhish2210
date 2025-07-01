@@ -21,7 +21,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://streak-stats.demolab.com/?user=Ardhish2210&theme=react&hide_border=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🎯 Quick Stats
@@ -34,19 +34,11 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
 
 ### ⚡ Real-time Metrics
-<!-- Working alternative badges -->
-<img src="https://img.shields.io/badge/GitHub%20Years-Active%20Since%202022-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Years" />
-<img src="https://img.shields.io/github/repos-count/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red" alt="Total Repositories" />
-<img src="https://img.shields.io/github/commit-activity/m/Ardhish2210/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=green" alt="Monthly Commits" />
-<img src="https://img.shields.io/github/last-commit/Ardhish2210/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=purple" alt="Last Commit" />
-
-<!-- Additional working metrics -->
-<p align="center">
-<img src="https://img.shields.io/badge/Code%20Lines-10k%2B-orange?style=for-the-badge&logo=code&logoColor=white" alt="Code Lines" />
-<img src="https://img.shields.io/badge/Projects%20Completed-15%2B-success?style=for-the-badge&logo=checkmark&logoColor=white" alt="Projects" />
-<img src="https://img.shields.io/badge/VLSI%20Designs-8%2B-blueviolet?style=for-the-badge&logo=microchip&logoColor=white" alt="VLSI Designs" />
-<img src="https://img.shields.io/badge/Coffee%20Consumed-%E2%99%BE%EF%B8%8F%20Cups-brown?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee" />
-</p>
+<!-- More dynamic badges with animations -->
+<img src="https://badges.pufler.dev/years/Ardhish2210?style=for-the-badge&color=blue&logo=github&logoColor=white" />
+<img src="https://badges.pufler.dev/repos/Ardhish2210?style=for-the-badge&color=red&logo=github&logoColor=white" />
+<img src="https://badges.pufler.dev/commits/monthly/Ardhish2210?style=for-the-badge&color=green&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/commit-activity/w/Ardhish2210/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=purple" />
 
 ### 🌟 Achievement Showcase
 <!-- GitHub Profile Summary Cards -->
@@ -62,31 +54,6 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=algolia" /></td>
 </tr>
 </table>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Ardhish2210&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-### 📈 Contribution Timeline
-<img src="https://streak-stats.demolab.com/?user=Ardhish2210&theme=algolia&hide_border=true&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4aa&sideLabels=ffffff&dates=ffffff" />
-
-### 💡 Dynamic Badges
-<p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-</p>
-
-### 🎯 Coding Activity
-<!-- Alternative coding activity display -->
-<p align="center">
-<img src="https://img.shields.io/badge/Most%20Used%20Language-SystemVerilog-blue?style=for-the-badge&logo=v&logoColor=white" alt="Most Used Language" />
-<img src="https://img.shields.io/badge/Coding%20Hours-40%2B%20hrs%2Fweek-green?style=for-the-badge&logo=clock&logoColor=white" alt="Coding Hours" />
-<img src="https://img.shields.io/badge/Active%20Days-6%2F7%20days-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Active Days" />
-</p>
-
-<!-- Alternative activity representation -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ardhish2210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Weekly%20Coding%20Activity" />
-
 </div>
 </div>
 
@@ -94,15 +61,4 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-<div align="center">
-
-### 🚀 Let's Connect and Build Something Amazing!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-**"The future belongs to those who design it in silicon!"** ⚡
-
 [![](https://visitcount.itsvg.in/api?id=Ardhish2210&icon=5&color=1)](https://visitcount.itsvg.in)
-
-</div>
