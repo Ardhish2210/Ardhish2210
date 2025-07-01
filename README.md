@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communication Engineering at the Indian Institute of Information Technology (IIIT) Nagpur.  <br>💡 Passionate about VLSI design, with a keen interest in the complete RTL to GDSII flow — from digital logic to physical layout.  <br>🔧 Experienced in hands-on projects involving SystemVerilog, FPGA-based prototyping, and ASIC design methodologies.  <br>🧪 Actively exploring hardware verification using UVM, with a focus on optimizing designs for performance, power, and area efficiency.  <br>📘 Continuously building expertise in EDA tools, timing closure, floorplanning, and low-power design strategies to gain a deeper understanding of the chip design process.  <br>🤖 Also enthusiastic about the intersection of VLSI and machine learning, working on signal processing projects, stress detection systems, and ML-driven analysis using Python, TensorFlow, and scikit-learn.<br>
+Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communication Engineering at the Indian Institute of Information Technology (IIIT) Nagpur.  
+💡 Passionate about VLSI design, with a keen interest in the complete RTL to GDSII flow — from digital logic to physical layout.  
+🔧 Experienced in hands-on projects involving SystemVerilog, FPGA-based prototyping, and ASIC design methodologies.  
+🧪 Actively exploring hardware verification using UVM, with a focus on optimizing designs for performance, power, and area efficiency.  
+📘 Continuously building expertise in EDA tools, timing closure, floorplanning, and low-power design strategies to gain a deeper understanding of the chip design process.  
+🤖 Also enthusiastic about the intersection of VLSI and machine learning, working on signal processing projects, stress detection systems, and ML-driven analysis using Python, TensorFlow, and scikit-learn.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardhish_patel_2210) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhish-patel-a21263285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bt23ece013@iiitn.ac.in) 
@@ -17,28 +22,27 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <!-- Activity Graph -->
 [![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=react-dark&hide_border=true&area=true)](https://github.com/Ardhish2210)
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br>
+![](https://streak-stats.demolab.com/?user=Ardhish2210&theme=react&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🎯 Quick Stats
-<img src="https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=Ardhish2210&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+![Followers](https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ardhish2210&style=for-the-badge&color=brightgreen)
 
 ### 📊 Language Distribution
-<!-- Language visualization -->
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
 
 ### ⚡ Real-time Metrics
-<!-- More dynamic badges with animations -->
-<img src="https://badges.pufler.dev/years/Ardhish2210?style=for-the-badge&color=blue&logo=github&logoColor=white" />
-<img src="https://badges.pufler.dev/repos/Ardhish2210?style=for-the-badge&color=red&logo=github&logoColor=white" />
-<img src="https://badges.pufler.dev/commits/monthly/Ardhish2210?style=for-the-badge&color=green&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/commit-activity/w/Ardhish2210/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=purple" />
+<div align="center">
+  
+![GitHub Account Age](https://img.shields.io/badge/GitHub%20Since-2022-blue?style=for-the-badge&logo=github&logoColor=white)
+![Total Repos](https://img.shields.io/badge/dynamic/json?color=red&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArdhish2210&style=for-the-badge&logo=github&logoColor=white)
+![Total Stars](https://img.shields.io/github/stars/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow)
+![Total Forks](https://img.shields.io/github/forks/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=green)
+
+</div>
 
 ### 🌟 Achievement Showcase
 <!-- GitHub Profile Summary Cards -->
@@ -54,7 +58,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=algolia" /></td>
 </tr>
 </table>
-</div>
+
 </div>
 
 ### ✍️ Random Dev Quote
