@@ -34,11 +34,11 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
 
 ### ⚡ Real-time Metrics
-<!-- More dynamic badges with animations -->
-<img src="https://badges.pufler.dev/years/Ardhish2210?style=for-the-badge&color=blue&logo=github&logoColor=white" />
-<img src="https://badges.pufler.dev/repos/Ardhish2210?style=for-the-badge&color=red&logo=github&logoColor=white" />
-<img src="https://badges.pufler.dev/commits/monthly/Ardhish2210?style=for-the-badge&color=green&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/commit-activity/w/Ardhish2210/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=purple" />
+<!-- Updated working badges -->
+<img src="https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&color=blue&logo=github&logoColor=white&label=Followers" />
+<img src="https://img.shields.io/github/last-commit/Ardhish2210/Ardhish2210?style=for-the-badge&color=green&logo=github&logoColor=white&label=Last%20Commit" />
+<img src="https://img.shields.io/github/commit-activity/m/Ardhish2210/Ardhish2210?style=for-the-badge&color=orange&logo=github&logoColor=white&label=Monthly%20Commits" />
+<img src="https://img.shields.io/github/created-at/Ardhish2210/Ardhish2210?style=for-the-badge&color=purple&logo=github&logoColor=white&label=Account%20Created" />
 
 ### 🌟 Achievement Showcase
 <!-- GitHub Profile Summary Cards -->
