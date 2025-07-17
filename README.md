@@ -1,8 +1,4 @@
 # 💫 About Me:
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Ardhish+Patel+👋;VLSI+Design+Enthusiast+⚡;RTL+to+GDSII+Flow+Expert+🔧;Hardware+Verification+Specialist+🧪;FPGA+%26+ASIC+Developer+💻&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=BD93F9">
-</div>
-
 Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communication Engineering at the Indian Institute of Information Technology (IIIT) Nagpur.  <br>💡 Passionate about VLSI design, with a keen interest in the complete RTL to GDSII flow — from digital logic to physical layout.  <br>🔧 Experienced in hands-on projects involving SystemVerilog, FPGA-based prototyping, and ASIC design methodologies.  <br>🧪 Actively exploring hardware verification using UVM, with a focus on optimizing designs for performance, power, and area efficiency.  <br>📘 Continuously building expertise in EDA tools, timing closure, floorplanning, and low-power design strategies to gain a deeper understanding of the chip design process.  <br>🤖 Also enthusiastic about the intersection of VLSI and machine learning, working on signal processing projects, stress detection systems, and ML-driven analysis using Python, TensorFlow, and scikit-learn.<br>
 
 ## 🌐 Socials:
@@ -19,29 +15,14 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ## 📈 GitHub Activity Dashboard
 
 <!-- Activity Graph -->
-[![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=dracula&hide_border=true&area=true)](https://github.com/Ardhish2210)
+[![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=react-dark&hide_border=true&area=true)](https://github.com/Ardhish2210)
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=dracula&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔥 Current Streak & Contributions
-<div align="center">
-  
-<!-- GitHub Contribution Snake Animation - FIXED -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Alternative: Working Snake Animation -->
-![Snake animation](https://github.com/Ardhish2210/Ardhish2210/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🎯 Quick Stats
 <img src="https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue" alt="Followers" />
@@ -50,7 +31,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 ### 📊 Language Distribution
 <!-- Language visualization -->
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=dracula&hide_border=true" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
 
 ### ⚡ Real-time Metrics
 <!-- Updated working badges -->
@@ -61,34 +42,23 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 ### 🌟 Achievement Showcase
 <!-- GitHub Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhish2210&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhish2210&theme=algolia" />
 
 <table>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhish2210&theme=tokyonight" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhish2210&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhish2210&theme=algolia" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhish2210&theme=algolia" /></td>
 </tr>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhish2210&theme=tokyonight" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhish2210&theme=algolia" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=algolia" /></td>
 </tr>
 </table>
 </div>
 </div>
 
-### 🎮 Fun Zone
-<div align="center">
-  
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-
-<!-- Animated Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Ardhish2210&style=for-the-badge&color=blueviolet&label=Profile%20Views&animated=true" />
-
-</div>
-
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ardhish2210&icon=5&color=1)](https://visitcount.itsvg.in)
