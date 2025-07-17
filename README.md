@@ -31,11 +31,15 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ### 🔥 Current Streak & Contributions
 <div align="center">
   
-<!-- GitHub Skyline -->
-<img src="https://github.com/Ardhish2210/Ardhish2210/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<!-- GitHub Contribution Snake Animation - FIXED -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ardhish2210/Ardhish2210/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- 3D Contribution Calendar -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=dracula&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
+<!-- Alternative: Working Snake Animation -->
+![Snake animation](https://github.com/Ardhish2210/Ardhish2210/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
