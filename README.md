@@ -15,14 +15,14 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ## 📈 GitHub Activity Dashboard
 
 <!-- Activity Graph -->
-[![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=react-dark&hide_border=true&area=true)](https://github.com/Ardhish2210)
+[![Ardhish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ardhish2210&theme=github-dark&hide_border=true&area=true)](https://github.com/Ardhish2210)
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=react&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ardhish2210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=Ardhish2210&theme=tokyonight&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🎯 Quick Stats
 <img src="https://img.shields.io/github/followers/Ardhish2210?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue" alt="Followers" />
@@ -31,7 +31,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 ### 📊 Language Distribution
 <!-- Language visualization -->
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=tokyonight&hide_border=true" />
 
 ### ⚡ Real-time Metrics
 <!-- Updated working badges -->
@@ -42,16 +42,16 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 
 ### 🌟 Achievement Showcase
 <!-- GitHub Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhish2210&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ardhish2210&theme=tokyonight" />
 
 <table>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhish2210&theme=algolia" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhish2210&theme=algolia" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ardhish2210&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ardhish2210&theme=tokyonight" /></td>
 </tr>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhish2210&theme=algolia" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=algolia" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ardhish2210&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ardhish2210&theme=tokyonight" /></td>
 </tr>
 </table>
 </div>
