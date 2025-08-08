@@ -34,33 +34,7 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 <!-- Language visualization -->
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhish2210&layout=donut&theme=algolia&hide_border=true" />
 
-### 🎯 Skills & Expertise
-<!-- Skill categories with visual emphasis -->
-<table>
-<tr>
-<td align="center">
-<h4>🔬 VLSI & Hardware</h4>
-<img src="https://img.shields.io/badge/RTL%20Design-Expert-brightgreen?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/FPGA-Advanced-blue?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/ASIC%20Flow-Intermediate-orange?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/Verification-Learning-red?style=flat-square" />
-</td>
-<td align="center">
-<h4>💻 Programming</h4>
-<img src="https://img.shields.io/badge/Verilog-Expert-brightgreen?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/SystemVerilog-Advanced-blue?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/C++-Intermediate-orange?style=flat-square" />
-</td>
-<td align="center">
-<h4>🤖 ML & Data Science</h4>
-<img src="https://img.shields.io/badge/TensorFlow-Advanced-blue?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/Signal%20Processing-Intermediate-orange?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/PyTorch-Learning-red?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/Scikit--learn-Intermediate-orange?style=flat-square" />
-</td>
-</tr>
-</table>
+
 
 ### 🌟 Achievement Showcase
 <!-- GitHub Profile Summary Cards -->
