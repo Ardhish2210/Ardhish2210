@@ -61,18 +61,18 @@ Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communicat
 ### 🎭 Digital Persona Matrix
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100"><br>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="80"><br>
 <b>🔬 VLSI Scientist</b><br>
 <i>Crafting Silicon Masterpieces</i>
 </td>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100"><br>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="80"><br>
 <b>🤖 AI Architect</b><br>
 <i>Neural Networks & Algorithms</i>
 </td>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ee0b13b8-9f38-4b8d-8f75-d4c7e9f4d0db" width="100"><br>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ee0b13b8-9f38-4b8d-8f75-d4c7e9f4d0db" width="80"><br>
 <b>⚡ Code Alchemist</b><br>
 <i>Transforming Ideas into Reality</i>
 </td>
