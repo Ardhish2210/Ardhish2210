@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 Hi! I'm Ardhish Patel, a third-year B.Tech student in Electronics and Communication Engineering at the Indian Institute of Information Technology (IIIT) Nagpur.  <br>💡 Passionate about VLSI design, with a keen interest in the complete RTL to GDSII flow — from digital logic to physical layout.  <br>🔧 Experienced in hands-on projects involving SystemVerilog, FPGA-based prototyping, and ASIC design methodologies.  <br>🧪 Actively exploring hardware verification using UVM, with a focus on optimizing designs for performance, power, and area efficiency.  <br>📘 Continuously building expertise in EDA tools, timing closure, floorplanning, and low-power design strategies to gain a deeper understanding of the chip design process.  <br>🤖 Also enthusiastic about the intersection of VLSI and machine learning, working on signal processing projects, stress detection systems, and ML-driven analysis using Python, TensorFlow, and scikit-learn.<br>
 
 
